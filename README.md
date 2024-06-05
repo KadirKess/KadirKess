@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kadir</h1>
 <h3 align="center">A passionate developer that wants to learn about everything</h3>
 
-- 🔭 I’m currently working on [A calculator with React and Node.js](https://github.com/KadirKess/React-Nodejs-Calculator.git)
+- 🔭 I’m currently working on [A To-Do List built in React](https://github.com/KadirKess/React-ToDo-List.git)
 
 - 🌱 I’m currently learning **Full-stack Development and Deep Learning**
 
