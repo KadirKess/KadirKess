@@ -4,7 +4,7 @@ Final-year engineering student at EPITA (IMAGE track), in the M2 MIND programme 
 
 ### Research
 
-- **[Lεtree](https://github.com/KadirKess/letree)** (Learning the ε-tree): ongoing research at LRE. A recurrent graph neural network recovers a hierarchical structure close to clean image's from its noisy version. PyTorch Geometric, Higra.
+- **[Lεtree](https://github.com/KadirKess/letree)** (Learning the ε-tree): ongoing research at LRE. A recurrent graph neural network builds the ε-tree, a noise-aware hierarchical structure that estimates a clean image's component tree from its noisy version. PyTorch Geometric, Higra.
 
 ### Personal research projects
 
