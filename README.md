@@ -4,7 +4,7 @@ Final-year engineering student at EPITA (IMAGE track), in the M2 MIND programme 
 
 ### Research
 
-- **[LeNAHS](https://github.com/KadirKess/LeNAHS)** (Learning Noise-Aware Hierarchical Structures): ongoing research at LRE. A recurrent graph neural network recovers a hierarchical structure close to clean image's from its noisy version. PyTorch Geometric, Higra.
+- **[Lεtree](https://github.com/KadirKess/letree)** (Learning the ε-tree): ongoing research at LRE. A recurrent graph neural network recovers a hierarchical structure close to clean image's from its noisy version. PyTorch Geometric, Higra.
 
 ### Personal research projects
 
